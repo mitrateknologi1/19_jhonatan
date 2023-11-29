@@ -9,8 +9,10 @@
                 </svg>
             </label>
         </div>
-        <div class="flex-1 px-2 mx-2 lg:px-0 lg:mx-0 font-bold text-xl">WEWE <span
-                class="font-normal">.co</span> </div>
+        <div class="flex-1 px-2 mx-2 lg:px-0 lg:mx-0 font-bold text-xl">
+            <img src="{{ asset('358686103_1031713028183223_1245688353473727861_n.jpg') }}"
+                class="max-w-[80px]" alt="Logo WN Mineral">
+        </div>
         <div class="flex-none flex items-center">
             <ul class="menu menu-horizontal font-medium">
                 <!-- Navbar menu content here -->
